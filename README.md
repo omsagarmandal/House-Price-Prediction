@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # House Price Prediction
 
 Beginner-friendly machine learning project that predicts house prices using linear regression.
