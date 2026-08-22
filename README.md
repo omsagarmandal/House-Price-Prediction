@@ -59,6 +59,13 @@ House-Price-Prediction/
 _(Original 3-day version: plain Linear Regression, R² 0.65 — feature engineering + tuning closed most of the gap.)_
 
 ---
+## App
+
+A Streamlit app (`app/app.py`) lets you enter property details — quality, living area, basement size, garage capacity, year built/sold — and get an instant price estimate, shown in NPR with a USD reference. Custom dark/gold themed UI with animated background, glass-panel cards, and a short calculation animation on submit.
+
+![App Screenshot](images/app_screenshot.png)
+
+---
 
 ## Visualizations
 
